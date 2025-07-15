@@ -1,0 +1,306 @@
+.container → Your page's lunchbox (keeps things neat) 🍱
+
+.container-fluid → Stretches full screen width ↔️
+
+.row → Creates a shelf for your blocks ➖
+
+.col → Basic building block █
+
+.col-6 → Half-width block ⬌
+
+.d-flex → Makes items sit in a line 👫
+
+.d-block → Shows item as a block █
+
+.d-none → Hides item 🙈
+
+.justify-content-center → Centers items ↔️
+
+.justify-content-between → Spaces items evenly ↔️↔️
+
+.align-items-center → Centers items vertically ↕️
+
+.text-center → Centers text ✨
+
+.text-start → Aligns text left ←
+
+.text-end → Aligns text right →
+
+.m-0 → Zero space around item 🚫
+
+.m-3 → Medium space around item 🛟
+
+.mt-2 → Small top space ⬆️
+
+.mb-4 → Big bottom space ⬇️
+
+.p-1 → Small inside space 📦
+
+.p-5 → Big inside space 📦📦
+
+.gap-3 → Space between items ↔️
+
+.bg-primary → Blue background 💙
+
+.bg-light → Light gray background 🌫️
+
+.text-white → White text ⚪
+
+.text-dark → Black text ⚫
+
+.border → Adds black border 🖼️
+
+.rounded → Rounds corners 🔵
+
+.shadow → Adds soft shadow ☁️
+
+.w-100 → Full width ↔️
+
+.h-50 → Half height ↕️
+
+.btn → Clickable button 🔘
+
+.btn-primary → Blue button 🔵
+
+.btn-outline-danger → Red outline button 🔴
+
+.btn-lg → Large button 🔘➡️🔘
+
+.btn-sm → Small button 🔘
+
+.form-control → Stylish input box 📝
+
+.form-select → Fancy dropdown ▼
+
+.form-check → Checkbox/radio container ☑️
+
+.input-group → Input + button together 🤝
+
+.fixed-top → Sticks to top 📌
+
+.sticky-top → Sticks when scrolling 📍
+
+.position-absolute → Place anywhere ✨
+
+.top-0 → Pins to top edge ⬆️
+
+.start-0 → Pins to left edge ⬅️
+
+.fs-1 → Biggest text 🔍
+
+.fs-6 → Smallest text 🔎
+
+.fw-bold → Bold text 🔤
+
+.fst-italic → Italic text ✍️
+
+.text-uppercase → ALL CAPS 🔠
+
+.text-truncate → ...cuts long text ✂️
+
+.visible → Shows item 👀
+
+.invisible → Hides item (but keeps space) 👻
+
+.overflow-auto → Adds scrollbars 📜
+
+.d-grid → Grid layout for items #️⃣
+
+.g-4 → Big gaps between grid items #️⃣↔️#️⃣
+
+.ratio ratio-16x9 → Video container 📺
+
+.d-inline → Items in same line ➡️➡️
+
+.d-inline-block → Inline but with padding/size ▭
+
+.flex-column → Stacks items vertically ⬇️
+
+.flex-wrap → Wraps items to new line ↩️
+
+.order-first → Moves to front ⏩
+
+.order-last → Moves to end ⏪
+
+.align-self-start → Aligns single item top ⬆️
+
+.justify-content-end → Pushes items right ➡️
+
+.ms-auto → Pushes item right ➡️
+
+.me-auto → Pushes item left ⬅️
+
+.p-relative → Positioning anchor ⚓
+
+.opacity-75 → Makes see-through 👻
+
+.text-decoration-none → Removes underlines 🚫➖
+
+.link-primary → Blue clickable text 🔗
+
+.list-group → Item list 📋
+
+.list-group-item → Single list item 📝
+
+.card → Content box with border 🃏
+
+.card-body → Inside of card box 📦
+
+.navbar → Navigation bar container 🧭
+
+.nav-link → Menu item link 🔗
+
+.dropdown → Clickable menu ▼
+
+.dropdown-menu → Hidden menu items 📋
+
+.carousel → Image slideshow 🖼️🔄
+
+.carousel-item → Single slide 🖼️
+
+.accordion → Expand/collapse sections 📖
+
+.offcanvas → Slide-in sidebar 📭
+
+.modal → Popup window 🪟
+
+.progress → Loading bar container 📊
+
+.progress-bar → Filling loading bar █
+
+.spinner-border → Loading circle 🔄
+
+.toast → Small notification popup 💬
+
+.tooltip → Hover information box 💡
+
+.table → Organized data grid 🔲
+
+.table-striped → Zebra stripes 🦓
+
+.img-fluid → Responsive image 📷
+
+.rounded-circle → Circle image ⭕
+
+.float-start → Image floats left 🖼️⬅️
+
+.float-end → Image floats right 🖼️➡️
+
+.text-bg-dark → White text on black background ⚫⚪
+
+.vh-100 → Full screen height 📺
+
+.vw-100 → Full screen width 📺
+
+.object-fit-cover → Fills image container 🖼️📦
+
+.z-1 → Controls stacking order (front/back) 🎭
+
+.active → Highlights current item 💡
+
+.disabled → Grays out item ⚫
+
+.text-reset → Removes link colors 🔄
+
+.user-select-all → Select text when clicking 📝
+
+
+
+04. **`.d-md-none`** → Hides item on medium screens and up 🙈💻  
+105. **`.d-lg-block`** → Shows as block only on large screens and up 💻  
+106. **`.flex-fill`** → Expands item to fill space 📏  
+107. **`.flex-shrink-0`** → Prevents shrinking 🚫📏  
+108. **`.flex-grow-1`** → Expands to take available space 📈  
+109. **`.align-content-start`** → Aligns grid lines at top ⬆️  
+110. **`.align-content-center`** → Centers grid lines vertically ↕️  
+111. **`.align-content-around`** → Spaces grid lines evenly ↔️↔️  
+112. **`.order-md-1`** → Changes order on medium screens 🔄  
+113. **`.offset-md-1`** → Left margin on medium screens ⬅️  
+114. **`.gx-0`** → No horizontal gap between columns 🚫↔️  
+115. **`.gy-4`** → Large vertical gap between rows ⬆️⬇️  
+116. **`.border-0`** → Removes border 🚫🖼️  
+117. **`.border-top`** → Border only on top ⬆️🖼️  
+118. **`.border-primary`** → Blue border 💙🖼️  
+119. **`.border-2`** → Thicker border 🖼️📏  
+120. **`.rounded-top`** → Rounds top corners only 🔝  
+121. **`.shadow-none`** → Removes shadow 🚫☁️  
+122. **`.shadow-lg`** → Larger shadow ☁️📏  
+123. **`.w-auto`** → Width adjusts to content ↔️🔄  
+124. **`.mw-100`** → Max-width 100% (no overflow) ↔️📏  
+125. **`.mh-100`** → Max-height 100% ↕️📏  
+126. **`.vw-50`** → Half viewport width ↔️📏  
+127. **`.min-vh-100`** → Minimum full screen height 📺  
+128. **`.stretched-link`** → Clickable entire block 🔗📦  
+129. **`.text-wrap`** → Allows text to wrap ↩️  
+130. **`.text-nowrap`** → Prevents text wrapping 🚫↩️  
+131. **`.text-break`** → Breaks long words ✂️🔤  
+132. **`.text-decoration-underline`** → Underlines text ➖  
+133. **`.lh-1`** → Tight line height (no space) 📏  
+134. **`.lh-base`** → Normal line height 📏  
+135. **`.fs-3`** → Medium-large text size 🔍  
+136. **`.fw-light`** → Light (thin) text weight ✨  
+137. **`.fst-normal`** → Normal font style (not italic) 🔤  
+138. **`.font-monospace`** → Typewriter text font ⌨️  
+139. **`.text-muted`** → Gray text (less important) 🌫️  
+140. **`.bg-opacity-50`** → Makes background see-through 👻  
+141. **`.bg-gradient`** → Color fade background 🌈  
+142. **`.bg-body`** → Default page background color 🧱  
+143. **`.link-danger`** → Red clickable text 🔴🔗  
+144. **`.link-underline`** → Underlined link ➖🔗  
+145. **`.list-unstyled`** → List without bullets/numbers 🚫•  
+146. **`.list-inline`** → List items in a line ➡️➡️  
+147. **`.list-inline-item`** → Item in inline list ➡️  
+148. **`.card-header`** → Top section of card 🃏⬆️  
+149. **`.card-footer`** → Bottom section of card 🃏⬇️  
+150. **`.card-img-top`** → Image at top of card 🖼️⬆️  
+151. **`.card-title`** → Bold title inside card 🃏🔤  
+152. **`.card-text`** → Text content inside card 🃏📝  
+153. **`.card-link`** → Link inside card 🃏🔗  
+154. **`.navbar-brand`** → Website name/logo in navbar 🏷️  
+155. **`.navbar-toggler`** → Mobile menu button ☰  
+156. **`.navbar-collapse`** → Hidden mobile menu items 📱  
+157. **`.nav-item`** → Single menu item container 📋  
+158. **`.dropdown-toggle`** → Button with dropdown arrow ▼  
+159. **`.dropdown-item`** → Item in dropdown menu 📋  
+160. **`.dropdown-divider`** → Separator line in dropdown ➖  
+161. **`.carousel-control-prev`** → Back button for slideshow ⏪  
+162. **`.carousel-control-next`** → Next button for slideshow ⏩  
+163. **`.carousel-indicators`** → Dots for slideshow position •••  
+164. **`.accordion-button`** → Clickable accordion header 📖  
+165. **`.accordion-collapse`** → Expandable accordion section 📖📏  
+166. **`.offcanvas-header`** → Top part of sidebar 📭⬆️  
+167. **`.offcanvas-body`** → Content area of sidebar 📭📝  
+168. **`.modal-header`** → Top of popup (title/close) 🪟⬆️  
+169. **`.modal-footer`** → Bottom of popup (buttons) 🪟⬇️  
+170. **`.progress-stacked`** → Multiple progress bars together 📊📊  
+171. **`.spinner-grow`** → Growing circle spinner 🌱🔄  
+172. **`.toast-header`** → Top part of notification 💬⬆️  
+173. **`.toast-body`** → Message inside notification 💬📝  
+174. **`.tooltip-arrow`** → Arrow on tooltip box ➡️💡  
+175. **`.tooltip-inner`** → Text inside tooltip 💡📝  
+176. **`.table-responsive`** → Scrollable table on small screens 📜  
+177. **`.table-hover`** → Highlights row on mouseover 🖱️💡  
+178. **`.table-bordered`** → Borders on all sides 🖼️  
+179. **`.table-sm`** → Compact table 🔲  
+180. **`.figure`** → Container for images with captions 🖼️📝  
+181. **`.figure-img`** → Image inside figure 🖼️  
+182. **`.figure-caption`** → Caption below image 📝  
+183. **`.float-none`** → Stops floating (left/right) 🚫➡️  
+184. **`.clearfix`** → Clears floats (stops wrapping) 🧹  
+185. **`.text-truncate`** → Cuts text with ... if too long ✂️...  
+186. **`.visible`** → Makes element visible 👀  
+187. **`.invisible`** → Makes element invisible (but still takes space) 👻  
+188. **`.overflow-hidden`** → Hides overflow content 🙈  
+189. **`.position-static`** → Normal positioning (not special) 🔄  
+190. **`.position-sticky`** → Sticks when scrolling past 📍  
+191. **`.top-50`** → Positions 50% from top ↕️  
+192. **`.start-50`** → Positions 50% from left ↔️  
+193. **`.translate-middle`** → Centers absolutely positioned item ↔️↕️  
+194. **`.border-bottom`** → Border only at bottom ⬇️🖼️  
+195. **`.border-danger`** → Red border 🔴  
+196. **`.rounded-pill`** → Super rounded corners (like a pill) 💊  
+197. **`.shadow-sm`** → Small shadow ☁️  
+198. **`.opacity-100`** → Fully solid (no see-through) █  
+199. **`.bg-dark`** → Black background ⚫  
+200. **`.text-bg-warning`** → Yellow background with readable text 💛⚫  
+

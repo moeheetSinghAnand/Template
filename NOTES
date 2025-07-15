@@ -1,0 +1,54 @@
+<div class="header-two">
+            <div class="container bg-white">
+                <div class="row">
+
+                    <div class="col">
+                        <h6 class="mb-3">Kbiz.</h6>
+                    </div>
+
+                    <div class="col d-flex justify-content-between">
+                        <div class="dropdown mb-3 me-2">
+                            <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Home</button>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+
+                        <div class="dropdown mb-3 me-2">
+                            <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Pages</button>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+
+                        <div class="dropdown mb-3 me-2">
+                            <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Portfolio</button>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+
+                        <div class="dropdown mb-3 me-2">
+                            <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Blog</button>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+
+                        <div class="dropdown mb-3 me-2">
+                            <button class="btn btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">Shop</button>
+                            <ul class="dropdown-menu"></ul>
+                        </div>
+
+                        <div class="mb-3">
+                            <button class="btn btn-sm btn-secondary" type="button">Contact</button>
+                        </div>
+                    </div>
+
+                    <div class="col">
+                        <div class="d-flex">
+                            <input type="text" placeholder="Search">
+                            <button class="btn btn-sm btn-primary" type="button">Get Started</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
